@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Dialogs</string>
+    <string name="custom_dialog">Custom Dialog</string>
+    <string name="fragment_dialog">Fragment Dialog</string>
+    <string name="alert_dialog">Alert Dialog</string>
+    <string name="datepicker_dialog">Datepicker Dialog</string>
+    <string name="timepicker_dialog">Timepicker Dialog</string>
+    <string name="bottom_sheet_dialog">Bottom sheet Dialog</string>
+    <string name="snackbar">Snackbar</string>
+    <string name="chiqib_ketmoqchimisiz">Chiqib ketmoqchimisiz?</string>
+    <string name="ha">Ha</string>
+    <string name="yoq">Yoq</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
